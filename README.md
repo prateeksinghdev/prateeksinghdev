@@ -1,7 +1,9 @@
-![Welcome GIF](https://miro.medium.com/v2/1*aniyNTcHORbvDiLGUzJSsQ.gif)
-
 # Prateek Singh
 Full Stack Web Developer...
+
+![Welcome GIF](https://miro.medium.com/v2/1*aniyNTcHORbvDiLGUzJSsQ.gif)
+
+
 # 💫 About Me:
 👋 Hey there, I'm Prateek! I'm a passionate web developer on a mission to build awesome, interactive things for the internet.<br><br>🎓 Leveling up at PSIT Kanpur: Currently pursuing my BCA and gearing up to graduate in the Class of 2028!<br><br>💻 Full-Stack Fanatic: I love doing it all—from crafting beautiful user interfaces to wiring up the hidden logic that makes websites tick.<br><br>🎨 Front-End Magic: I paint the web using HTML, CSS, JavaScript, and Bootstrap to make sure everything looks great on any screen size.<br><br>⚙️ Back-End Power: I keep the engines running smoothly behind the scenes with PHP and Laravel.<br><br>🐛 Professional Bug Squasher: Turning coffee into code and turning frustrating errors into polished features.<br><br>🚀 What's Next: I'm always eager to collaborate, learn fresh tech tricks, and build projects that make an impact. Let's connect and create something cool!
 

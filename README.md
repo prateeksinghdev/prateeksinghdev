@@ -1,7 +1,7 @@
 # Prateek Singh
 Full Stack Web Developer...
 
-![Welcome GIF]((assets/mario.gif))
+![Welcome GIF](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif)
 
 
 # 💫 About Me:

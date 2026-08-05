@@ -1,7 +1,7 @@
 # Prateek Singh
 Full Stack Web Developer...
 
-![Welcome GIF](https://miro.medium.com/v2/1*aniyNTcHORbvDiLGUzJSsQ.gif)
+![Welcome GIF]https://www.behance.net/gallery/165684019/Chill-Bros/modules/934397723.
 
 
 # 💫 About Me:

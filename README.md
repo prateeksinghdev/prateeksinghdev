@@ -10,11 +10,11 @@
 <!-- ============ HERO: SPRITE + ANIMATED TAGLINE SIDE-BY-SIDE ============ -->
 <table width="100%">
 <tr>
-<td width="35%" align="center" valign="middle">
-<img src="https://plain-apac-prod-public.komododecks.com/202610/16/Z5JOokgGYnFCCx6e5cK0/image.png" width="200" height="150" alt="Prateek pixel sprite"/>
+<td>
+![Welcome GIF](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 </td>
 <td width="65%" align="left" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;BCA+Student+%40+PSIT+Kanpur;PHP+%26+Laravel+Backend+%7C+React+Frontend;Building+Interactive+Things+for+the+Internet" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=B6F731&background=FF761C00&width=1020&lines=I%27m+Prateek%2C+a+passionate+web+developer;Passionate+web+developer+who+loves+building+interactive+web+experiences.;Pursuing+BCA+at+PSIT+Kanpur%2C+graduating+in+2028.;Interested+in+full-stack+development%2C+including+front-end+and+back-end+technologies.;Skilled+in+HTML%2C+CSS%2C+JavaScript%2C+and+Bootstrap.;Learning+and+building+with+PHP+and+Laravel.;Enjoy+debugging+code+and+solving+programming+problems.;Eager+to+learn+new+technologies%2C+collaborate%2C+and+build+impactful+projects." alt="Typing SVG" />
 </td>
 </tr>
 </table>
@@ -22,20 +22,8 @@
 <!-- ============ THE MISSION (ABOUT) ============ -->
 <div align="center">
 
-
-<!-- ============ QUEST CHAIN (ROADMAP) ============ -->
+<!-- ============ THE MISSION (ABOUT) ============ -->
 <div align="center">
-
-## 01 📜 THE QUEST CHAIN
-
-
-<img src="assets/quest-terminal.svg" width="100%" alt="roadmap terminal animation"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
-</div>
 
 <!-- ============ BATTLE LOG (LIVE GITHUB STATS) ============ -->
 <div align="center">

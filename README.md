@@ -28,7 +28,7 @@
 <!-- ============ BATTLE LOG (LIVE GITHUB STATS) ============ -->
 <div align="center">
 
-## 02 ⚡ BATTLE LOG
+## 01 ⚡ BATTLE LOG
 *Live activity, auto-updated*
 
 <!-- Contribution snake — populated by GitHub Action, see .github/workflows/snake.yml -->
@@ -43,27 +43,21 @@
 <!-- ============ EQUIPPED ITEMS (TOOLS & STACK) ============ -->
 <div align="center">
 
-## 03 🛠️ Equipped Items
+## 02 🛠️ Equipped Items
 
 <sub>LANGUAGES</sub>
-
-<img src="https://skillicons.dev/icons?i=py,cpp,bash&theme=dark" />
-
-<sub>MACHINE LEARNING & DATA</sub>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-
-<sub>TOOLS & ENVIRONMENT</sub>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,mysql&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp&theme=dark" />
+<sub>Frontend</sub>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js&theme=dark" />
+<sub> Backend & Databases</sub>
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,mongodb&theme=dark" />
 </div>
 
 <br/>
 
 <div align="center">
 
-## `04` &nbsp; GitHub Stats
+## `03` &nbsp; GitHub Stats
 
 **🏙️ Contributions, Isometric 3D**
 
@@ -82,7 +76,7 @@
 
 <br/>
 
-## `05` &nbsp; Connect With Me
+## `04` &nbsp; Connect With Me
 
 <div align="center">
 

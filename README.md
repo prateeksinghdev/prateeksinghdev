@@ -11,10 +11,10 @@
 <table width="100%">
 <tr>
 <td width="35%" align="center" valign="middle">
-<img src=https://kommodo.ai/i/Z5JOokgGYnFCCx6e5cK0 width="220" alt="Prateek pixel sprite"/>
+<img src="https://kommodo.ai/i/Z5JOokgGYnFCCx6e5cK0" width="220" alt="Prateek pixel sprite"/>
 </td>
 <td width="65%" align="left" valign="middle">
-<img src=""https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;BCA+Student+%40+PSIT+Kanpur;PHP+%26+Laravel+Backend+%7C+React+Frontend;Building+Interactive+Things+for+the+Internet" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;BCA+Student+%40+PSIT+Kanpur;PHP+%26+Laravel+Backend+%7C+React+Frontend;Building+Interactive+Things+for+the+Internet" alt="Typing SVG" />
 </td>
 </tr>
 </table>

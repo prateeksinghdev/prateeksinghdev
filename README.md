@@ -46,11 +46,17 @@
 ## 02 🛠️ Equipped Items
 
 <sub>LANGUAGES</sub>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp&theme=dark" />
+
 <sub>Frontend</sub>
+
 <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js&theme=dark" />
+
 <sub> Backend & Databases</sub>
+
 <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql,mongodb&theme=dark" />
+
 </div>
 
 <br/>

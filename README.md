@@ -11,7 +11,7 @@
 <table width="100%">
 <tr>
 <td>
-![Welcome GIF](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dlokzcb-553683f4-7ce4-4860-8d5e-bba66aa1c765.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGxva3pjYi01NTM2ODNmNC03Y2U0LTQ4NjAtOGQ1ZS1iYmE2NmFhMWM3NjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0Almd7zqhTWJJoJ-uLs_YngHzX-CHu5GjtuSfcadrng"><br>
 </td>
 <td width="65%" align="left" valign="middle">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=B6F731&background=FF761C00&width=1020&lines=I%27m+Prateek%2C+a+passionate+web+developer;Passionate+web+developer+who+loves+building+interactive+web+experiences.;Pursuing+BCA+at+PSIT+Kanpur%2C+graduating+in+2028.;Interested+in+full-stack+development%2C+including+front-end+and+back-end+technologies.;Skilled+in+HTML%2C+CSS%2C+JavaScript%2C+and+Bootstrap.;Learning+and+building+with+PHP+and+Laravel.;Enjoy+debugging+code+and+solving+programming+problems.;Eager+to+learn+new+technologies%2C+collaborate%2C+and+build+impactful+projects." alt="Typing SVG" />

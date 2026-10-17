@@ -67,16 +67,16 @@
 
 **🏙️ Contributions, Isometric 3D**
 
-<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=achinttiwari&theme=dark&stats=true" width="100%"/>
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=prateeksinghdev&theme=neon&stats=true&credit=true" width="100%"/>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=achinttiwari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=achinttiwari&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prateeksinghdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prateeksinghdev&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinttiwari&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeksinghdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8&cache_seconds=86400"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=achinttiwari&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prateeksinghdev&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true"/>
 
 </div>
 

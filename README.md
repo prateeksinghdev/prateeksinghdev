@@ -86,14 +86,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/achinttiwari)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/achinttiwari/)
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:achinttiwari.dev@gmail.com)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=A855F7)](https://www.kaggle.com/achinttiwari)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A855F7)](https://leetcode.com/u/AchintTiwari/)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=A855F7)](https://codeforces.com/profile/achinttiwari)
-[![Google Developer](https://img.shields.io/badge/-Google%20Dev-000000?style=for-the-badge&logo=google&logoColor=A855F7)](https://g.dev/Achinttiwari)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=A855F7)](https://stackoverflow.com/users/32925970/achinttiwari)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/prateeksinghdev/prateeksinghdev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/prateeksingh-dev/)
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=A855F7)](https://mail.google.com/mail/u/0/#inbox)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A855F7)](https://leetcode.com/u/e364usDANV/)
 </div>
 <br/>
 <div align="center">

@@ -28,7 +28,7 @@
 <!-- ============ BATTLE LOG (LIVE GITHUB STATS) ============ -->
 <div align="center">
 
-## 01 ⚡ BATTLE LOG
+## `01` ⚡ BATTLE LOG
 *Live activity, auto-updated*
 
 <!-- Contribution snake — populated by GitHub Action, see .github/workflows/snake.yml -->
@@ -43,7 +43,7 @@
 <!-- ============ EQUIPPED ITEMS (TOOLS & STACK) ============ -->
 <div align="center">
 
-## 02 🛠️ Equipped Items
+## `02` 🛠️ Equipped Items
 
 ### Languages
 

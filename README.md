@@ -86,7 +86,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/prateeksinghdev/prateeksinghdev)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/prateeksinghdev/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://www.linkedin.com/in/prateeksingh-dev/)
 [![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=A855F7)](https://mail.google.com/mail/u/0/#inbox)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=A855F7)](https://leetcode.com/u/e364usDANV/)

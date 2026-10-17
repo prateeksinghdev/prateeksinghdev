@@ -32,7 +32,7 @@
 *Live activity, auto-updated*
 
 <!-- Contribution snake — populated by GitHub Action, see .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/achinttiwari/achinttiwari/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/prateeksinghdev/prateeksinghdev/output/galaga-contribution-graph.svg" width="100%" alt="contribution snake animation"/>
 
 </div>
 

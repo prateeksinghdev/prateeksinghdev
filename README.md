@@ -29,7 +29,7 @@
 <div align="center">
 
 ## `01` ⚡ BATTLE LOG
-*Live activity, auto-updated*
+*Think of what a precious privilege it is to be alive – to breathe, to think, to enjoy, to love.*
 
 <!-- Contribution snake — populated by GitHub Action, see .github/workflows/snake.yml -->
 <img src="https://raw.githubusercontent.com/prateeksinghdev/prateeksinghdev/output/galaga-contribution-graph.svg" width="100%" alt="contribution snake animation"/>
@@ -47,7 +47,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp&theme=dark" />
 
 ### Frontend
 
